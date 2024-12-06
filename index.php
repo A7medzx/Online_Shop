@@ -17,7 +17,7 @@
         <div class="main">
             <form action="insert.php" method="post" enctype="multipart/form-data">
                    <h1>Online shopping</h1>
-                   <img src="img\متجر.png" alt="logo" width="500">
+                   <img src="img\img\متجر.png" alt="logo" width="500">
                    <input type="text" name="name" placeholder="Enter the Product name" required>
                    <br>
                    <input type="text" name="price" placeholder="Enter the Product price" required>
